@@ -1,4 +1,3 @@
 -pizza
 Orange
 Apple	
-Toast
